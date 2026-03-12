@@ -143,6 +143,10 @@ struct GamePage {
         .layoutWeight(1)
         .borderRadius(12);
 
+      Text(`场上剩余：${this.gameState.totalCount - this.gameState.removedCount}`)
+        .fontSize(12)
+        .fontColor('#6B7280');
+
       SlotBar({ slots: this.gameState.slots, capacity: this.gameState.slotCapacity });
 
       if (this.warningText.length > 0) {
