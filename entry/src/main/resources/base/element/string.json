@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Tile Crush module" },
+    { "name": "EntryAbility_desc", "value": "Tile Crush entry" },
+    { "name": "EntryAbility_label", "value": "Tile Crush" }
+  ]
+}
