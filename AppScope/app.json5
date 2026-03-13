@@ -1,0 +1,8 @@
+{
+  "app": {
+    "bundleName": "com.codex.tilecrush",
+    "vendor": "codex",
+    "versionCode": 1,
+    "versionName": "1.0.0"
+  }
+}
